@@ -1,0 +1,18 @@
+{
+    "ping": 0,
+    "cat": 0,
+    "warn": 1,
+    "warnings": 1,
+    "kick": 2,
+    "ban": 2,
+    "timeout": 2,
+    "unban": 4,
+    "purge": 3,
+    "lockdown": 3,
+    "addrole": 5,
+    "setcommandlevel": 4,
+    "shutdown": 6,
+    "togglecommand": 6,
+    "disabledcommands": 5,
+    "stafflist": 0
+}
